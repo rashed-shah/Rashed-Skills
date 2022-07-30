@@ -1,0 +1,85 @@
+/*
+*{
+    padding: 0;
+    margin: 0;
+}
+*/
+.container {
+    width: 100%;
+    background-color: #ddd;
+}
+
+.skills {
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+}
+.Office{
+     width: 95%;
+    background-color: #0000FF;
+}
+.photoshop{
+     width: 90%;
+    background-color: #008080;
+}
+.html {
+    width: 85%;
+    background-color: #FFA500;
+}
+
+.css {
+    width: 80%;
+    background-color: #2196F3;
+}
+
+.js {
+    width: 70%;
+    background-color: #f44336;
+}
+.bootstrap{
+     width: 75%;
+    background-color: #808080;
+}
+.php {
+    width: 67%;
+    background-color: #800080;
+}
+.wordpress {
+    width: 62%;
+    background-color: #008080;
+}
+h1{
+    text-align: center;
+    margin-top: 30px;
+    font-weight: bold;
+    font-size: 70px;
+    color: lightcoral;
+/*    font-family: "Lucida Console", "Courier New", monospace;*/
+}
+h3{
+    text-align: right;
+    font-weight: bold;
+    font-size: 20px;
+    color: #f44336;
+}
+button{
+    text-align: center;
+    padding: 10px;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 10px;
+    background: red;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 8px;
+}
+.btn1{
+    padding: 10px 35px;
+   
+}
+ button:hover{
+    background: transparent;
+    border: 1px solid red;
+    color: black;
